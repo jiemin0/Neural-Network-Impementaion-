@@ -14,8 +14,7 @@ This file including one fully connected Neural Network and one CNN over MNIST da
 ### A convolutional neural network with the following specifications.
 * Input: 1-channel input, size 28x28
 * Keep batch size as 32.
-* Convolution layer: Convolution kernel size is (3, 3) with stride as 1. Input channels
-- 1; Output channels - 20
+* Convolution layer: Convolution kernel size is (3, 3) with stride as 1. Input channels-1; Output channels - 20
 * Max-pool: 2x2 max pool
 * ReLu Layer
 * Flatten input for feed to fully connected layers
